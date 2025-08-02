@@ -25,6 +25,9 @@ curl -X POST https://api.videosdk.live/v2/rooms \
   -H "Authorization: VIDEOSDK_AUTH_TOKEN" \
   -H "Content-Type: application/json"
 ```
+<img width="1352" height="323" alt="image" src="https://github.com/user-attachments/assets/5f39dc71-e191-415f-b88f-f8e67cad190c" />
+
+
 
 For more details on the Create Room API, refer to the [VideoSDK documentation](https://docs.videosdk.live/api-reference/realtime-communication/create-room).
 
