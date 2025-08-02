@@ -55,6 +55,13 @@ AI-Voice-Agent/
     └── simli_realtime_example.py
 ```    
 
+### Clone Repository
+```bash
+git clone https://github.com/KUNAL-MAURYA1470/AI-Voice-Agent
+
+cd AI-Voice-Agent
+```
+
 ### Cascading Pipeline
 
 <img width="940" height="432" alt="image" src="https://github.com/user-attachments/assets/be7a5909-efc3-4613-abd0-f8b99566ac43" />
