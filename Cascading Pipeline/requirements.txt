@@ -1,0 +1,25 @@
+# VideoSDK AI Agents Core
+videosdk-agents==0.0.19
+
+# Real-time API and LLM-based TTS/STT Providers
+videosdk-plugins-openai>=0.0.19
+videosdk-plugins-google>=0.0.19
+videosdk-plugins-aws>=0.0.19
+
+# Speech-to-Text (STT) Plugins
+videosdk-plugins-deepgram>=0.0.19
+
+# Voice Activity Detection (VAD) and Turn Detection Plugins
+videosdk-plugins-silero>=0.0.19
+videosdk-plugins-turn-detector>=0.0.19
+
+# Text-to-Speech (TTS) Plugins
+videosdk-plugins-elevenlabs>=0.0.19
+
+
+# Virtual Avatar Plugins
+videosdk-plugins-simli>=0.0.19
+
+# Core Dependencies
+fastmcp
+aiohttp
